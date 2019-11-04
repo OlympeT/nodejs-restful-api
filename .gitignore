@@ -1,0 +1,10 @@
+node_modules
+.vscode
+npm-debug.log
+.serverless
+variables.env
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/nodejs-restful-api.iml
+.idea/vcs.xml
