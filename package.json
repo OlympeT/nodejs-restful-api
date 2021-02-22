@@ -19,6 +19,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.2",
-    "mquery": ">=3.2.3"
+    "mquery": ">=3.2.3",
+    "yargs-parser": ">=13.1.2"
   }
 }
